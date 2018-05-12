@@ -1,0 +1,35 @@
+_repo: Prince-and-Rover-of-Cloverfield-Farm_28586
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Spencer, Hugh
+    birthdate: 1887
+    deathdate: 1975
+    gutenberg_agent_id: '33428'
+    url: http://www.gutenberg.org/2009/agents/33428
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orton, Helen Fuller
+    birthdate: 1872
+    deathdate: 1955
+    gutenberg_agent_id: '33427'
+    url: http://www.gutenberg.org/2009/agents/33427
+description: ''
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+title: Prince and Rover of Cloverfield Farm
+url: http://www.gutenberg.org/ebooks/28586
